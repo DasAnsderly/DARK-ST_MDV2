@@ -14,7 +14,7 @@
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
-      "value": ""
+      "value": "Byte;;;eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiS09UUVh6THUvWGxHRkQ1aU5ZaXNpOWxTcWNEZzRRQ2wrQUtnVE1TODJsbz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiY0kvOWNoeGJ0b0ZpK0FZVHhlVGhGSlN6cjBOVzU0bDN6WE4xVTIrRzhFdz0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJJREVnL255RzlDR2dSaFV3UlYyZlNYVXJmSzNmdGthaGlGc2VGbkh3dmxjPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJLVDJoMlY4QjlGY2JIVkpvdEFZcW44TEs4UytqbEZWOTRSZVNaODlFaUU4PSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Im9IKzZOd2NYcmNyK1VQVWlNMmtsUm50TFYwaDBpSVBPbXpndVRJSGFBbGc9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkZwT2dSelFoay9Mc25jWFBNZ0JEeVpTM3ArWEJmeHV2b1BNTzNVSDZNVXc9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiU01ZYm56NHpaMXlBeTcrYXF5YTQ4TWJta2xybkxaVElaZ2FiTHdvWHlIWT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiTDBEVEpsSEVzd0dlSmpLbTN0RnpzTmI0MXI0R1ZlTElONjBnbThIYlEyND0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjNSd2kwcWZMZGkwU3FUdDd5dEV4bHByV05Nd3JlUjNHZnQxaWRvWmZrZ1kzLzJaT2duY1hYdzJaVDNKUDRQRDlwd2xjYjBEaWJMakszZEdJeDJHUGdnPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MjUxLCJhZHZTZWNyZXRLZXkiOiJLNTh3ZStxeFpoSEM1T3FxT1RkSWJxQVpiMTFLaW9YUndQcUZCVEZzMDV3PSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W3sia2V5Ijp7InJlbW90ZUppZCI6IjE4Mjk0Nzc1NjU4QHMud2hhdHNhcHAubmV0IiwiZnJvbU1lIjp0cnVlLCJpZCI6IjNBMzdCQjYwMzExMEZBQzVCRDlCIn0sIm1lc3NhZ2VUaW1lc3RhbXAiOjE3MjQwMzYwOTF9XSwibmV4dFByZUtleUlkIjozMSwiZmlyc3RVbnVwbG9hZGVkUHJlS2V5SWQiOjMxLCJhY2NvdW50U3luY0NvdW50ZXIiOjEsImFjY291bnRTZXR0aW5ncyI6eyJ1bmFyY2hpdmVDaGF0cyI6ZmFsc2V9LCJkZXZpY2VJZCI6Iml1YTRwZVhmUVN5akxKekRncmlaaFEiLCJwaG9uZUlkIjoiNjdjOTlkMzgtOTY0OS00YmZiLWE3YjctZDUzNDU3MjFhNThkIiwiaWRlbnRpdHlJZCI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IlJrc3FJWTZOWEJpYkhwNUFPb01NeE5iOGdLMD0ifSwicmVnaXN0ZXJlZCI6dHJ1ZSwiYmFja3VwVG9rZW4iOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiIwdzRVOCtHVkNrS1pUQk9iWXh0aTBHeFhJSzg9In0sInJlZ2lzdHJhdGlvbiI6e30sInBhaXJpbmdDb2RlIjoiNVdHQ0dZVk0iLCJtZSI6eyJpZCI6IjE4Mjk0Nzc1NjU4OjE4QHMud2hhdHNhcHAubmV0IiwibmFtZSI6IvCdmrjwnZqq8J2asPCdmrTwnZCC8J2atSJ9LCJhY2NvdW50Ijp7ImRldGFpbHMiOiJDSTMrMlBVRUVPdm5pcllHR0FFZ0FDZ0EiLCJhY2NvdW50U2lnbmF0dXJlS2V5Ijoib3g5cHN5L0cxSmVFMzdvNnEvUnQ3Zy9aM2JqSUJmb3BmYmEyZTdSNjFBTT0iLCJhY2NvdW50U2lnbmF0dXJlIjoiZUdnU1A0SU9tNkNIcWlyMmVTa2ZVZ3hwMC9kOUNsZ1hrMDRBM2R2bG5IZER2Tm93dmVHWmJJdnpwTjBpREFlUTlIbnkzZDBFRkZ3UDBNeGtwNW5VQ1E9PSIsImRldmljZVNpZ25hdHVyZSI6Ii8zVXdVM0RvV1E4U1d5Q1lmNWg0d1FGc0pmVXhOV2h5aWx5N255d2lJZTk0MzVDR2JXVC80Vm5vM09aZDJ5RDNLSm5wWU9VQnZGUW8rRFR2QTRpYmd3PT0ifSwic2lnbmFsSWRlbnRpdGllcyI6W3siaWRlbnRpZmllciI6eyJuYW1lIjoiMTgyOTQ3NzU2NTg6MThAcy53aGF0c2FwcC5uZXQiLCJkZXZpY2VJZCI6MH0sImlkZW50aWZpZXJLZXkiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJCYU1mYWJNdnh0U1hoTis2T3F2MGJlNFAyZDI0eUFYNktYMjJ0bnUwZXRRRCJ9fV0sInBsYXRmb3JtIjoic21iaSIsImxhc3RBY2NvdW50U3luY1RpbWVzdGFtcCI6MTcyNDAzNjA4NywibXlBcHBTdGF0ZUtleUlkIjoiQUFBQUFMaVIifQ=="
     },
     "WELCOME": {
       "description": "put 'false' or 'true' to enable & disable WELCOME ",
@@ -75,7 +75,7 @@
     "READ_MESSAGE": {
       "description": "Fill the value true if you want bot to read all messages.",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "DISABLE_PM": {
       "description": "Make it 'false' if you wanna run bot in your pm (if MODE is Public)",
@@ -88,7 +88,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "50931461936"
+      "value": "8294775658"
     },
 
     "MODE": {
